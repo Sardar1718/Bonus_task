@@ -31,3 +31,17 @@ Repository Structure
 - `Edge.java` — edge representation with weights
 - `Graph.java` — graph implementation and Dijkstra algorithm
 - `Main.java` — example execution
+
+
+
+How to Run
+
+1. Open the project in IntelliJ IDEA
+2. Run Main.java
+3. The shortest distances will be displayed in the console
+
+
+
+Author: Amangeldin Sardar
+Group: SE-2511
+Thanks for attention
