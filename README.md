@@ -1,4 +1,4 @@
-Bonus Task — Dijkstra's Algorithm
+ Dijkstra's Algorithm
 Description
 
 This project was extended with Dijkstra’s Algorithm to calculate the shortest path from a starting vertex to all other vertices in a weighted graph.
